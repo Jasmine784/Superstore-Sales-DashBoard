@@ -16,7 +16,6 @@ Tools Used:
 * Microsoft Excel
 * Pivot Tables
 * Pivot Charts
-* Conditional Formatting
 * Excel Formulas
 
 Key KPIs:
