@@ -11,7 +11,6 @@ Objective: The main objectives of this project are to:
 * Compare sales performance across different regions.
 * Identify sales trends over time.
 * Use Pivot Tables and Charts to create an interactive dashboard.
-* Use Conditional Formatting to highlight high and low sales performers.
 
 Tools Used:
 * Microsoft Excel
