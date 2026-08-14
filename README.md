@@ -1,5 +1,5 @@
 # Superstore-Sales-DashBoard
-# Superstore Sales Dashboard
+
 
 ## Project Overview
 
@@ -59,6 +59,4 @@ Conditional Formatting was applied to the sales analysis to highlight high and l
 
 This project demonstrates the use of **Microsoft Excel for data analysis, Pivot Tables, data visualization, and dashboard creation**. The dashboard provides a clear and easy-to-understand view of Superstore sales performance and helps users identify important trends and patterns.
 
-## Dashboard Preview
 
-![Superstore Sales Dashboard](Dashboard.png)
